@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abraham Meza</h1>
 <h3 align="center">A Fullstack Software Engineer from Costa Rica</h3>
+<img align="right" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*gReLR6hZjwyBxHmfLN1AVw.gif">
 
 - 🔭 I’m currently working at **SchoolMint**
 
