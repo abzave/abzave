@@ -7,9 +7,9 @@
 
 <br/>
 
-- 🔭 I’m currently working at **SchoolMint**
+[comment]: <>  (- 🔭 I’m currently working at **SchoolMint**)
 
-- 🌱 I’m currently learning **TypeScript, GCP, AWS and API Security**
+- 🌱 I’m currently learning **Next.JS, TypeScript, AWS**
 
 - 💬 Ask me about **Python, Ruby, PHP or React**
 
